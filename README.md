@@ -2,7 +2,8 @@
 
 ## 📌 Description
 
-This is an interactive Python dice guessing game where the player tries to guess the number rolled by the computer.
+A Python dice guessing game with input validation and 3 attempts to guess the number.
+
 
 The program:
 
